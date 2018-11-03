@@ -22,7 +22,7 @@ La plateforme est simple d'utilisation, chaque groupe d'utilisateur peuvent ajou
 
 ---
 
-## Authors
+## Auteurs
  - Bourgeay William - Epitech
  - Wawrzyniak Julien - Epitech
  - Hostetter Alexy - Epitech
