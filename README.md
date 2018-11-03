@@ -13,7 +13,7 @@ La plateforme est simple d'utilisation, chaque groupe d'utilisateur peuvent ajou
 ## Les prérequis
  - npm
 
-## Pour les développers
+## Pour les développeurs
  - Les technologies utilisées sont react, redux, flow, eslint, material-ui, i18n	
 
 ## Version
