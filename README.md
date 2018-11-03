@@ -14,7 +14,7 @@ La plateforme est simple d'utilisation, chaque groupe d'utilisateur peuvent ajou
  - npm
 
 ## Pour les développers
- - Les technologies utilisées sont le react, redux, flow, eslint, material-ui, i18n	
+ - Les technologies utilisées sont react, redux, flow, eslint, material-ui, i18n	
 
 ## Version
  - 1.0
