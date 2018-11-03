@@ -2,7 +2,7 @@
 
 ---
 
-A propos de Umusic
+## A propos de Umusic
  - Ce dépot contient une plateforme en ligne qui permet aux utilisateurs de se connecter ensemble à un salon pour partager, écouter ou encore regarder une vidéo en simultané.
 La plateforme est simple d'utilisation, chaque groupe d'utilisateur peuvent ajouter ou rejoindre le salon d'un ami très facilement grâce a l'outil de recherche.
 
@@ -16,14 +16,22 @@ La plateforme est simple d'utilisation, chaque groupe d'utilisateur peuvent ajou
 ## Les prérequis
  - npm
 
+---
+
 ## Pour les développers
  - FrontEnd
 	La plateforme est fait en react, redux, flow, eslint, material-ui, i18n	
 
+---
+
 ## Version
  - 1.0
+
+---
 
 ## Authors
  - Bourgeay William - Epitech
  - Wawrzyniak Julien - Epitech
  - Hostetter Alexy - Epitech
+
+---
