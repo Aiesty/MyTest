@@ -20,6 +20,10 @@ La plateforme est simple d'utilisation, chaque groupe d'utilisateur peuvent ajou
 ## Version
  - 1.0
 
+## Licence
+- Umusic est un projet open source sous la licence MIT :
+  opensource.org/licenses/MIT
+
 ---
 
 ## Auteurs
